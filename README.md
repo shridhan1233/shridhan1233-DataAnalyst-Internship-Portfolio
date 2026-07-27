@@ -47,10 +47,10 @@ During this internship, I learned how to:
 
 | Task | Project | Repository |
 |------|---------|------------|
-| ✅ Task 1 | Data Immersion & Wrangling | *(Add Link)* |
-| ✅ Task 2 | Exploratory Data Analysis & Business Intelligence | *(Add Link)* |
-| ✅ Task 3 | Deep-Dive Analysis & Interactive Dashboard | *(Add Link)* |
-| ✅ Task 4 | Data Storytelling & Statistical Validation | *(Add Link)* |
+| ✅ Task 1 | Data Immersion & Wrangling 
+| ✅ Task 2 | Exploratory Data Analysis & Business Intelligence 
+| ✅ Task 3 | Deep-Dive Analysis & Interactive Dashboard 
+| ✅ Task 4 | Data Storytelling & Statistical Validation 
 | 🚀 Mini Project | Retail Sales Analytics & Business Intelligence Dashboard *(Coming Soon)* | *(Coming Soon)* |
 
 ---
@@ -105,7 +105,7 @@ This internship strengthened my practical understanding of the complete data ana
 # 📫 Connect With Me
 
 - GitHub: https://github.com/shridhan1233
-- LinkedIn: *(Add Your LinkedIn Profile)*
+- LinkedIn: *(https://www.linkedin.com/in/shridhan-kale-906a2b3a1)*
 
 ---
 
